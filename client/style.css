@@ -1,0 +1,19 @@
+body {
+  padding: 2rem;
+  background: radial-gradient(
+    circle,
+    rgba(63, 94, 251, 1) 0%,
+    rgba(252, 70, 107, 1) 100%
+  );
+}
+
+.list-group {
+  gap: 0.5rem;
+  border-radius: 1rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.2rem;
+}
+
+.list-group-item {
+  border-radius: 1rem;
+}
